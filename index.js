@@ -50,8 +50,9 @@ inquirer.prompt(questions)
             const newLogo = `
 ${chosenShape.renderShape()}
             `
-            fileSystem.writeFile('newLogo.svg', newLogo, (err) => {
+            fileSystem.writeFile('logo.svg', newLogo, (err) => {
                 if (err) throw err;
+                console.log('Generated logo.svg')
                 console.log('LOGO-MATIC!');
             });
         })
