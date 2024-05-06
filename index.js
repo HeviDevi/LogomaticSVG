@@ -52,7 +52,7 @@ ${chosenShape.renderShape()}
             `
             fileSystem.writeFile('newLogo.svg', newLogo, (err) => {
                 if (err) throw err;
-                console.log('The file has been saved!');
+                console.log('LOGO-MATIC!');
             });
         })
     });
