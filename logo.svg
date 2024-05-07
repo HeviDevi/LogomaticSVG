@@ -5,7 +5,7 @@
         xmlns="http://www.w3.org/2000/svg">
 
         <polygon points=" 20 200, 120 20, 220 200" 
-        fill="blue" 
+        fill="black" 
         stroke-width="5"/>
 
         <text x="120" y="170" font-size="60" 
