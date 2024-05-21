@@ -33,7 +33,7 @@ import("inquirer").then((inquirer) => {
       message: "What color should the text of the logo be?",
     },
   ];
-  
+
   inquirer.prompt(questions).then((response) => {
     let chosenShape;
     if (response.shape === "Circle") {

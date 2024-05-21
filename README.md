@@ -7,9 +7,9 @@ LogomaticSVG is a CLI app that utilizes the inquirer NPM package to create uniqu
 ## Installation
 
 Go to https://github.com/HeviDevi/LogomaticSVG and copy the repository. Then install Node by visiting https://nodejs.org/en/download/
-After That install Inquirer by typing the following into the command line: 
+After That install Inquirer by typing the following into the command line:
 npm install inquirer
-Finally, If you would like to run the available tests type the following into the comand line: 
+Finally, If you would like to run the available tests type the following into the comand line:
 npm install --save-dev
 
 ## Usage
