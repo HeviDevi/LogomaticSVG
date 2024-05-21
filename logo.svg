@@ -4,16 +4,13 @@
     width="300" height="200"
     xmlns="http://www.w3.org/2000/svg">
 
-    <rect x="10" y="10" width="200" height="300" 
-    fill="orange" 
-    stroke-width="5"/>
+    <circle cx="150" cy="100" r="90" 
+    fill="Blue" />
 
+    <text x="150" y="125" font-size="60" 
+    text-anchor="middle" fill="Black ">
+    FOH</text>
     
-    <text x="110" y="125" font-size="60" 
-    text-anchor="middle" 
-    fill="green">
-    pov</text>
-
     </svg>
     
             
