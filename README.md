@@ -21,8 +21,9 @@ npm install --save-dev
 <br><br>
 To create a new logo simply type either of the following in the command line & then answer the prompts:
 <br><br>
-node index.js<br>
-npm start<br>
+node index.js
+<br>
+npm start
 <br><br>
 Note that you may enter hexadecimal values when prompted for a color
 <br><br>
